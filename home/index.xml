@@ -6,22 +6,9 @@
     <description>Recent content in Homes on Welcome to He Zhao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>August 2017 by He Zhao</copyright>
+    <copyright>July 2017 by He Zhao</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ethanhezhao.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://ethanhezhao.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ethanhezhao.github.io/home/about/</guid>
-      <description>About Me: I am a Ph.D. student in Faculty of Information Technology, Monash University, supervised by Dr. Lan Du and Prof. Wray Buntine, since late 2015. I received my M.Eng from Nanjing University in 2014 and B.Eng from Nankai University in 2011.
-I am interested in topic models, Bayesian matrix/tensor factorisations, probabilistic relational models, and other related areas such as Bayesian nonparametrics and sampling algorithms.
-Papers:  H. Zhao, L.</description>
-    </item>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
