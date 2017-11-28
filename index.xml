@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to He Zhao&#39;s Homepage on Welcome to He Zhao&#39;s Homepage</title>
+    <title>Welcome to He Zhao&#39;s Homepage</title>
     <link>https://ethanhezhao.github.io/</link>
-    <description>Recent content in Welcome to He Zhao&#39;s Homepage on Welcome to He Zhao&#39;s Homepage</description>
+    <description>Recent content on Welcome to He Zhao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>August 2017 by He Zhao</copyright>
+    <copyright>Nov 2017 by He Zhao</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ethanhezhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ethanhezhao.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ethanhezhao.github.io/home/about/</guid>
+      <description>About Me: I am a Ph.D. student in Faculty of Information Technology, Monash University, supervised by Dr. Lan Du and Prof. Wray Buntine, since late 2015. I received my M.Eng from Nanjing University in 2014 and B.Eng from Nankai University in 2011.
+I am interested in statistical machine learning. Currently I am working on Bayesian matrix/tensor factorisations with discrete data (e.g. documents and relational networks). I am also interested in other related areas such as Bayesian nonparametrics, sampling/inference algorithms, and deep generative models.</description>
+    </item>
     
   </channel>
 </rss>

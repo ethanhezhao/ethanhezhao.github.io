@@ -6,8 +6,10 @@
     <description>Recent content in Tags on Welcome to He Zhao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>August 2017 by He Zhao</copyright>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <copyright>Nov 2017 by He Zhao</copyright>
+    
+	<atom:link href="https://ethanhezhao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
